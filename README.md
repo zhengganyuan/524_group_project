@@ -20,7 +20,6 @@ Multi-class classification of mental health conditions based on social media sta
 ```
 524_Group_Project/
 ├── Combined Data.csv           # Raw dataset
-├── Combined Data.xlsx          # Raw dataset
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 ├── src/
